@@ -1,0 +1,106 @@
+tml lang="en">
+    <head>
+        <title>
+            CIS 221
+        </title>
+    </head>
+    <body> <style>
+        body{
+            background-color: burlywood;
+        }
+    </style>
+        <h1>
+            <style>
+                h1{
+                    text-align: center;
+                }
+                button{
+                    display: block;
+                    margin: auto;
+                    border-radius: 50px;
+                    padding: 15px 10px;
+                    line-height: 20px;
+                    background-color: rgb(195, 153, 235);
+                    box-shadow: 5px;
+                    font-weight: bolder;
+                    font-size: 18px;
+                    text-transform: uppercase;
+                }
+
+            </style>
+            <button>CIS 221</button>
+        </h1>
+        <h2>
+            <style>
+                h2{
+                    text-decoration: underline;
+                    text-align: center;
+                }
+            </style>Home of Imports
+        </h2>
+    <hr/>
+    <img src="IMG-20241008-WA0047.jpg"width="400"height="400">
+    <style>
+        img{
+            display: block;
+            margin: auto;
+        }
+    </style>
+        <p><br><strong>Maureen Solutions</strong> delights in reliving you of the effort put into importsl logistics.We are here</br> 
+           <br> to redefeine this process for you in a simpler way.Our simpler way is by allowing you to </br>
+           <br> relax as we do the sourcing for you, do purchases and handle all the paper work required by </br>
+            <br>customs in both country of origin and destination.To add onto this, we deliver it right at your </br>
+                                               <br>door step.</br></p>
+        <style>
+    
+                p{text-align: center;
+            }
+        </style>
+        <h3>Countries Covered:</h3>
+        <style>
+            h3{
+                text-align: center;
+                text-decoration: underline;
+                color: blueviolet;
+            }
+        </style>
+        <ul>
+            <li>
+                CHINA
+            </li>
+            <li>
+                United Kingdom
+            </li>
+            <li>
+                United States Of America
+            </li>
+            <style>
+                li{
+                    list-style: none;
+                    display: inline-block;
+                    color: blueviolet;
+                    font-size: 18px;
+                    text-align: center;
+                    margin-right: 25px;
+                }
+                ul{
+                    text-align: center;
+                }
+            </style>
+        </ul>
+
+
+        <h4><button>🛳️PLACE ORDER?</button></h4>
+        <h5>
+            Designed and coded by <strong>Maureen Muthui</strong> 
+        </h5>
+        <style>
+            h5{
+                text-align: center;
+            }
+        </style>
+        
+        
+
+    </body>
+</html>
